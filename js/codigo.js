@@ -1,0 +1,1 @@
+var nombre= prompt("Por favor, introduzca su nombre:","");
